@@ -55,7 +55,7 @@
     height: 105px;
 }
 
-.header__address {
+.address {
     width: 240px;
     display: flex;
     flex-direction: column;
@@ -294,22 +294,6 @@
     display: flex;
     justify-content: space-between;
     margin-top: 5px;
-}
-
-.footer_contacts {
-    margin-top: 3px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-}
-
-.footer__address {
-    width: 240px;
-    display: flex;
-    flex-direction: column;
-    justify-self: end;
-    list-style: none;
 }
 
 .footer__menu {
